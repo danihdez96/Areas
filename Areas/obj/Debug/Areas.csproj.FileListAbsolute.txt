@@ -1,0 +1,8 @@
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\bin\Debug\Areas.exe.config
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\bin\Debug\Areas.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\bin\Debug\Areas.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\obj\Debug\Areas.csprojResolveAssemblyReference.cache
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\obj\Debug\Areas.exe
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\obj\Debug\Areas.pdb
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\bin\Debug\ClassLibrary1.dll
+c:\users\daniela\documents\visual studio 2013\Projects\Areas\Areas\bin\Debug\ClassLibrary1.pdb
